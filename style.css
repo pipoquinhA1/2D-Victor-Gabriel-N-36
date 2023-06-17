@@ -9,3 +9,107 @@ body {
 h1{
     background-color: aliceblue;
 }
+qua1{position: absolute;
+width: 1728px;
+height: 330px;
+left: 0px;
+top: 78px;
+
+/* Teste */
+
+background: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
+
+}
+qua2{/* Group 26 */
+
+
+position: absolute;
+width: 1732px;
+height: 418px;
+left: -4px;
+top: 1654px;
+
+
+}
+qua3{/* Group 19 */
+
+
+position: absolute;
+width: 774px;
+height: 88px;
+left: 477px;
+top: 2136px;
+
+
+}
+qua4{/* Group 24 */
+
+
+position: absolute;
+width: 1728px;
+height: 570px;
+left: 0px;
+top: 450px;
+
+
+}
+qua5{/* Dots */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 12px;
+
+position: absolute;
+width: 84px;
+height: 12px;
+left: 505px;
+top: 588px;
+
+
+}
+qua6{/* Group 25 */
+
+
+position: absolute;
+width: 1728px;
+height: 570px;
+left: 0px;
+top: 1084px;
+
+
+}
+qua7{/* Header */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 18px 80px;
+
+position: absolute;
+width: 1728px;
+height: 80px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+
+}
+qua8{/* Rodapé */
+
+
+position: absolute;
+width: 1728px;
+height: 513px;
+left: -4px;
+bottom: 0px;
+
+background: #F9F9F9;
+}
